@@ -1,0 +1,15 @@
+{
+  "TitlePage": "Traducción con Gatsby",
+  "Welcome": "Tecnología para desarrolladores web",
+  "titleTechnologiesWeb": "Tecnologías Web Fundamentales",
+  "descriptionTechnologiesWeb": "La Web abierta (open Web) se construye usando diversas tecnologías como.",
+  "HTML": "El Lenguaje de Marcado para Hipertextos (HyperText Markup Language) es usado para describir y definir el contenido de una página Web en un formato bien estructurado.",
+  "CSS": "Las Hojas de Estilo en Cascada (Cascading Style Sheets) se usan para describir la apariencia del contenido Web.",
+  "JavaScript": "JavaScript es el lenguaje de programación que se ejecuta en los navegadores, se usa para para construir avanzados sitios Web interactivos y aplicaciones para ejecución segura en el navegador.",
+  "Web APIs": "Material de referencia para cada una de las APIs que constituyen las poderosas posiblidades de programación del Web, incluyendo el DOM y todas las APIs e interfaces que puedes usar para desarrollar contenidos Web y aplicaciones.",
+  "SVG": "Los Gráficos Vectoriales Escalables (Scalable Vector Graphics) le permiten describir imágenes como conjuntos de vectores (líneas) y formas para permitir su escalamiento continúo independientemente del tamaño con el que hayan sido dibujados.",
+  "WebGL": "WebGL trae gráficos 3D al Web al introducir una API que cumple de cerca al estándar OpenGL ES 2.0, y que puede usarse en los elemntos <canvas> de HTML. ",
+  "basic": "Basica",
+  "code": "Código",
+  "graphics": "Gráficos"
+}

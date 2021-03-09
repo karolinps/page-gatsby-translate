@@ -1,0 +1,15 @@
+{
+  "TitlePage": "Translation with Gatsby",
+  "Welcome": "Technology for web developers",
+  "titleTechnologiesWeb": "Web technology reference",
+  "descriptionTechnologiesWeb": "The open Web is built using various technologies such as.",
+  "HTML": "The HyperText Markup Language is used to describe and define the content of a Web page in a well structured format.",
+  "CSS": " Cascading Style Sheets are used to describe the appearance of web content.",
+  "JavaScript": "JavaScript is the programming language that runs in browsers, it is used to build advanced interactive Web sites and applications for safe execution in the browser.",
+  "Web APIs": "Reference material for each of the APIs that make up the powerful programming capabilities of the Web, including the DOM and all the APIs and interfaces that you can use to develop Web content and applications.",
+  "SVG": "Scalable Vector Graphics allow you to describe images as sets of vectors (lines) and shapes to allow continuous scaling regardless of the size with which they have been drawn.",
+  "WebGL": "WebGL brings 3D graphics to the Web by introducing an API that closely complies with the OpenGL ES 2.0 standard, and can be used in the <canvas> elements of HTML",
+  "basic": "Basic",
+  "code": "Code",
+  "graphics": "Graphics"
+}
